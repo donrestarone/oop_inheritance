@@ -52,3 +52,6 @@ class Multilinguist
     json_response['translationText']
   end
 end
+
+m = Multilinguist.new
+m.language_in
